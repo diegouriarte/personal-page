@@ -13,6 +13,11 @@
   name = "Proyectos"
   url = "#projects"
   weight = 30
+  
+[[main]]
+  name = "Empieza Aquí"
+  url = "#start-here"
+  weight = 10
 
 #[[main]]
 #  name = "Publications"
